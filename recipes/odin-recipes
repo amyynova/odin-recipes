@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Odin Recipes</title>
+    </head>
+    <body>
+        <body style="text-align: center;">
+        <h1>Odin Recipes</h1>
+        <ul>
+            <p><a href="recipes/peanutnoodles.html">=>Peanut Noodles</a></p>
+            <p><a href="recipes/onionsoup.html">=>Onion Soup</a></p>
+            <p><a href="recipes/katsucurry.html">=>Katsu-Curry</a></p>
+
+
+
+        </ul>
+    
+    
+    </body>
+        
+</html>
